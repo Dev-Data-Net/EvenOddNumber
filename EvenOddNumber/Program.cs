@@ -16,7 +16,7 @@ while (true)
         Console.WriteLine("Liczba jest nieparzysta");
     }
 
-    Console.WriteLine("\nPodaj następną liczbę: \nJeżeli chcesz zakończyć naciśnij 'q'");
+    Console.WriteLine("\nPodaj następną liczbę: \n\tJeżeli chcesz zakończyć naciśnij 'q'");
 }
 
 
